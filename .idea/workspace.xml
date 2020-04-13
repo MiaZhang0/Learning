@@ -2,68 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b4e53e1-58d7-43ae-8155-09d96c8921f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models_practice/demo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba-0.42.1-py3.7.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba-0.42.1-py3.7.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba-0.42.1-py3.7.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba-0.42.1-py3.7.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba-0.42.1-py3.7.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/analyse/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/analyse/analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/analyse/idf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/analyse/textrank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/analyse/tfidf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/dict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_emit.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_emit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_start.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_trans.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/finalseg/prob_trans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/creator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/crfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_0.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_0.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_1.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_1.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_2.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_2.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_3.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_3.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_4.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/fc_4.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_0.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_0.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_1.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_1.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_2.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_2.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_3.b_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/gru_3.w_0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/model_baseline/word_emb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/nets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/reader_small.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/tag.dic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/lac_small/word.dic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/char_state_tab.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/char_state_tab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_emit.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_emit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_start.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_trans.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/prob_trans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jieba/posseg/viterbi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_visualization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_visualization/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models_practice/demo08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models_practice/demo09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_practice/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_practice/demo01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterfaceTesting/ICTesting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -101,28 +45,7 @@
       <recent name="E:\workspace\Learning\QuestionTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo07">
-    <configuration name="demo03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models_practice/demo03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo08">
     <configuration name="demo04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,13 +130,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models_practice/demo08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo08" />
         <item itemvalue="Python.demo07" />
         <item itemvalue="Python.demo06" />
         <item itemvalue="Python.demo05" />
         <item itemvalue="Python.demo04" />
-        <item itemvalue="Python.demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -234,26 +178,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="389" key="FileChooserDialogImpl" timestamp="1585644552841">
+    <state x="583" y="389" key="FileChooserDialogImpl" timestamp="1586746151729">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="583" y="389" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585644552841" />
-    <state width="1330" height="132" key="GridCell.Tab.0.bottom" timestamp="1586513153289">
+    <state x="583" y="389" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586746151729" />
+    <state width="1479" height="58" key="GridCell.Tab.0.bottom" timestamp="1586772104586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1330" height="132" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586513153289" />
-    <state width="1330" height="132" key="GridCell.Tab.0.center" timestamp="1586513153289">
+    <state width="1479" height="58" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586772104586" />
+    <state width="1479" height="58" key="GridCell.Tab.0.center" timestamp="1586772104586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1330" height="132" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586513153289" />
-    <state width="1330" height="132" key="GridCell.Tab.0.left" timestamp="1586513153289">
+    <state width="1479" height="58" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586772104586" />
+    <state width="1479" height="58" key="GridCell.Tab.0.left" timestamp="1586772104586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1330" height="132" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586513153289" />
-    <state width="1330" height="132" key="GridCell.Tab.0.right" timestamp="1586513153289">
+    <state width="1479" height="58" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586772104586" />
+    <state width="1479" height="58" key="GridCell.Tab.0.right" timestamp="1586772104586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1330" height="132" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586513153289" />
+    <state width="1479" height="58" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586772104586" />
     <state width="1223" height="580" key="GridCell.Tab.1.bottom" timestamp="1584698780437">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -274,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="710" y="240" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586499499028" />
-    <state x="652" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1586480857218">
+    <state x="652" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1586746130648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="652" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586480857218" />
+    <state x="652" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586746130648" />
     <state x="911" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584525888113">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
