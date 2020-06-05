@@ -1,5 +1,5 @@
-# import this
-#在cmd中运行python，然后import this，则返回如下结果：
+import this
+# 在cmd中运行python，然后import this，则返回如下结果：
 # Beautiful is better than ugly.
 # Explicit is better than implicit.
 # Simple is better than complex.

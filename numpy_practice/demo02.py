@@ -6,7 +6,7 @@ initial = 1000
 package = [initial]
 array = np.random.uniform(0,1,1500)
 for time in array:
-    if time <0.5:
+    if time < 0.5:
         initial -= 8
     else:
         initial += 8
